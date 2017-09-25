@@ -5,7 +5,9 @@
 * [Docs](http://docs.godotengine.org/en/latest/)
 * [Twitter](https://twitter.com/godotengine)
 * [Forum](https://godotdevelopers.org/forum/)
+* [vk group](https://vk.com/godot_engine)
 
+### [Awesome-godot](https://github.com/Calinou/awesome-godot)
 
 ## network
 * [Gaffer On Games](https://gafferongames.com)
@@ -14,5 +16,4 @@
 * [snapshot-interpolation-demo](https://github.com/empyreanx/godot-snapshot-interpolation-demo)
 * [godot enet wrapper(gdnet)](https://github.com/empyreanx/gdnet)
 
-[vk group](https://vk.com/godot_engine)
 
